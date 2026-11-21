@@ -1,0 +1,119 @@
+{
+  "title": "Catering Pagi Sore — Catering Website",
+  "summary": {
+    "en": "Collaborative development of a promotional website and service catalog for Catering Pagi Sore, built by a team of three. The website presents service information, a catering menu catalog, customer testimonials, and profile and contact pages with a responsive interface.",
+    "id": "Pengembangan website promosi dan katalog layanan Catering Pagi Sore secara kolaboratif dalam tim beranggotakan tiga orang. Website menampilkan informasi layanan, katalog menu catering, testimoni pelanggan, serta halaman profil dan kontak dengan antarmuka yang responsif."
+  },
+  "category": "web",
+  "year": 2023,
+  "status": "implemented",
+  "featured": false,
+  "technologies": [
+    "HTML5",
+    "CSS3",
+    "JavaScript",
+    "Bootstrap 5",
+    "Font Awesome",
+    "Google Maps Embed"
+  ],
+  "thumbnail": "/images/projects/catering/dashboard.png",
+  "github": "https://github.com/MuhamadSeptian/Catering-Pagi-Sore",
+  "overview": {
+    "en": "Catering Pagi Sore is a website development project for a catering service, created as part of the Web Programming 1 course. The project was built by a team of three with the goal of delivering a website that presents catering service information, a food catalog, prices, customer testimonials, and business information. The website was developed with HTML, CSS, JavaScript, and Bootstrap 5, using an organized page structure, a responsive design, and interactions across various interface elements.",
+    "id": "Catering Pagi Sore merupakan proyek pengembangan website untuk layanan catering yang dibuat sebagai bagian dari mata kuliah Pemrograman Web 1. Proyek ini dikerjakan secara berkelompok oleh tiga orang dengan tujuan membangun website yang menampilkan informasi layanan catering, katalog makanan, harga, testimoni pelanggan, serta informasi bisnis. Website dikembangkan menggunakan HTML, CSS, JavaScript, dan Bootstrap 5 dengan menerapkan struktur halaman yang terorganisasi, desain responsif, serta interaksi pada berbagai elemen antarmuka."
+  },
+  "role": {
+    "en": "Collaborated with two other team members on the design and development of the Catering Pagi Sore website. My individual contribution covered the website development tasks assigned within the team, the implementation of the interface, and the adjustment of page elements and interactions using frontend technologies.",
+    "id": "Berkolaborasi dengan dua anggota tim lainnya dalam proses perancangan dan pengembangan website Catering Pagi Sore. Kontribusi individu mencakup bagian pengembangan website sesuai pembagian tugas tim, implementasi antarmuka, serta penyesuaian elemen halaman dan interaksi menggunakan teknologi frontend."
+  },
+  "learnings": [
+    {
+      "en": "Understood the frontend website development process using HTML, CSS, and JavaScript.",
+      "id": "Memahami proses pengembangan website frontend menggunakan HTML, CSS, dan JavaScript."
+    },
+    {
+      "en": "Built and organized website page structures based on service requirements.",
+      "id": "Membangun dan mengatur struktur halaman website berdasarkan kebutuhan layanan."
+    },
+    {
+      "en": "Implemented interface components using Bootstrap 5.",
+      "id": "Mengimplementasikan komponen antarmuka menggunakan Bootstrap 5."
+    },
+    {
+      "en": "Developed a website layout that responds to different screen sizes.",
+      "id": "Mengembangkan tampilan website yang responsif terhadap berbagai ukuran layar."
+    },
+    {
+      "en": "Applied frontend interactions to navigation, the menu catalog, and website components.",
+      "id": "Menerapkan interaksi frontend pada elemen navigasi, katalog menu, dan komponen website."
+    },
+    {
+      "en": "Collaborated with team members throughout the website development project.",
+      "id": "Berkolaborasi dengan anggota tim dalam proses pengembangan proyek website."
+    },
+    {
+      "en": "Learned about task distribution, work integration, and coordination in website development.",
+      "id": "Memahami pembagian tugas, integrasi pekerjaan, dan koordinasi dalam pengembangan website."
+    }
+  ],
+  "extra": [
+    {
+      "title": "Website Interface Development",
+      "content": {
+        "en": "Developed the website interface that presents catering service information, food menus, prices, testimonials, and the business profile. The page structure is arranged so visitors can easily find the available information. Built with HTML5, CSS3, and Bootstrap 5.",
+        "id": "Mengembangkan antarmuka website yang menampilkan informasi layanan catering, menu makanan, harga, testimoni, serta profil bisnis. Struktur halaman disusun untuk memudahkan pengunjung mengakses informasi yang tersedia. Dibangun dengan HTML5, CSS3, dan Bootstrap 5."
+      }
+    },
+    {
+      "title": "Frontend Interaction",
+      "content": {
+        "en": "Implemented interactions on website elements, including navigation, menu search, order buttons, a cart view, and a testimonial slider using JavaScript.",
+        "id": "Mengimplementasikan interaksi pada elemen website, termasuk navigasi, pencarian menu, tombol pemesanan, tampilan keranjang, serta slider testimoni menggunakan JavaScript."
+      }
+    },
+    {
+      "title": "Responsive Web Design",
+      "content": {
+        "en": "Arranged the layout and components so the website adapts to different screen sizes, including desktop and mobile devices, using CSS and Bootstrap.",
+        "id": "Mengatur tata letak dan komponen website agar dapat menyesuaikan dengan ukuran layar yang berbeda, termasuk perangkat desktop dan mobile, menggunakan CSS dan Bootstrap."
+      }
+    },
+    {
+      "title": "Team-Based Web Development",
+      "content": {
+        "en": "Took part in building the website as a team of three, through task distribution and collaboration on pages and website components.",
+        "id": "Berpartisipasi dalam pengembangan website secara berkelompok dengan tiga anggota tim, melalui pembagian tugas dan kolaborasi dalam membangun halaman serta komponen website."
+      }
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/images/projects/catering/dashboard.png",
+      "caption": {
+        "en": "Main view of the Catering Pagi Sore website.",
+        "id": "Tampilan utama website Catering Pagi Sore."
+      }
+    },
+    {
+      "src": "/images/projects/catering/best seller.png",
+      "caption": {
+        "en": "Home page showing catering information and featured menu items.",
+        "id": "Halaman beranda yang menampilkan informasi dan menu unggulan catering."
+      }
+    },
+    {
+      "src": "/images/projects/catering/menu.png",
+      "caption": {
+        "en": "Catering menu catalog page with food information.",
+        "id": "Halaman katalog menu catering beserta informasi makanan."
+      }
+    },
+    {
+      "src": "/images/projects/catering/testimoni.png",
+      "caption": {
+        "en": "Customer testimonials page.",
+        "id": "Halaman testimoni pelanggan."
+      }
+    }
+  ]
+}

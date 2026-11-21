@@ -1,0 +1,117 @@
+{
+  "title": "SynClass Mobile — Academic Management App",
+  "summary": {
+    "en": "Development of a mobile app for an academic management system using Flutter, integrated with a backend API. The app provides authentication, course information, assignments, learning materials, grades, course enrollment (KRS), attendance, and student profile features.",
+    "id": "Pengembangan aplikasi mobile untuk sistem manajemen akademik menggunakan Flutter yang terintegrasi dengan backend API. Aplikasi menyediakan fitur autentikasi, informasi mata kuliah, tugas, materi, nilai, KRS, presensi, dan profil mahasiswa."
+  },
+  "category": "mobile",
+  "year": 2025,
+  "status": "implemented",
+  "featured": false,
+  "technologies": [
+    "Flutter",
+    "Dart",
+    "Riverpod",
+    "REST API",
+    "HTTP",
+    "Shared Preferences",
+    "Flutter Dotenv"
+  ],
+  "thumbnail": "/images/projects/synclass/splash.jpeg",
+  "github": "https://github.com/MuhamadSeptian/synclass-mobile1",
+  "overview": {
+    "en": "SynClass Mobile is a mobile app that supports the management of students' academic activities. It was developed with Flutter and integrated with a backend through an API to provide access to academic information. Available features include user authentication, course management, assignments and materials, grades, course enrollment (KRS), attendance, and the student profile. Development covered implementing the mobile interface, managing state with Riverpod, exchanging data over HTTP, and handling local data.",
+    "id": "SynClass Mobile merupakan aplikasi mobile untuk mendukung pengelolaan aktivitas akademik mahasiswa. Aplikasi dikembangkan menggunakan Flutter dan terintegrasi dengan backend melalui API untuk menyediakan akses terhadap informasi akademik. Fitur yang tersedia meliputi autentikasi pengguna, manajemen mata kuliah, tugas dan materi, nilai, KRS, presensi, serta profil mahasiswa. Pengembangan aplikasi mencakup implementasi antarmuka mobile, pengelolaan state menggunakan Riverpod, komunikasi data melalui HTTP, serta pengelolaan data lokal."
+  },
+  "role": {
+    "en": "Developed the SynClass mobile app with Flutter and Dart, implemented the interface and academic features, managed app state with Riverpod, integrated the app with the backend API through HTTP requests, and used local storage to support the app's needs.",
+    "id": "Mengembangkan aplikasi mobile SynClass menggunakan Flutter dan Dart, mengimplementasikan antarmuka serta fitur akademik, mengelola state aplikasi menggunakan Riverpod, mengintegrasikan aplikasi dengan backend API melalui HTTP request, serta memanfaatkan penyimpanan lokal untuk mendukung kebutuhan aplikasi."
+  },
+  "learnings": [
+    {
+      "en": "Developed mobile apps with Flutter and Dart.",
+      "id": "Mengembangkan aplikasi mobile menggunakan Flutter dan Dart."
+    },
+    {
+      "en": "Built user interfaces with Flutter widgets.",
+      "id": "Membangun antarmuka pengguna menggunakan widget Flutter."
+    },
+    {
+      "en": "Managed app state with Riverpod.",
+      "id": "Mengelola state aplikasi menggunakan Riverpod."
+    },
+    {
+      "en": "Integrated a mobile app with a backend API through HTTP requests.",
+      "id": "Mengintegrasikan aplikasi mobile dengan backend API melalui HTTP request."
+    },
+    {
+      "en": "Managed app data and configuration with Shared Preferences and environment variables.",
+      "id": "Mengelola data dan konfigurasi aplikasi menggunakan Shared Preferences dan environment variables."
+    },
+    {
+      "en": "Implemented authentication and navigation in a mobile app.",
+      "id": "Mengimplementasikan fitur autentikasi dan navigasi aplikasi mobile."
+    },
+    {
+      "en": "Understood the flow of data exchange between a mobile app and a backend.",
+      "id": "Memahami alur pertukaran data antara aplikasi mobile dan backend."
+    }
+  ],
+  "extra": [
+    {
+      "title": "Mobile Application Development",
+      "content": {
+        "en": "Developed the mobile app with Flutter and Dart, building the interface and pages that support students' academic activities, including the login page, home page, academic information, and user profile.",
+        "id": "Mengembangkan aplikasi mobile menggunakan Flutter dan Dart dengan membangun antarmuka serta halaman aplikasi yang mendukung aktivitas akademik mahasiswa, termasuk halaman login, halaman utama, informasi akademik, dan profil pengguna."
+      }
+    },
+    {
+      "title": "State Management and Data Handling",
+      "content": {
+        "en": "Managed app state and the flow of data between components with Riverpod, and used local storage (Shared Preferences) to support data management and the app's needs.",
+        "id": "Mengelola state aplikasi dan aliran data antar komponen menggunakan Riverpod, serta memanfaatkan penyimpanan lokal (Shared Preferences) untuk mendukung pengelolaan data dan kebutuhan aplikasi."
+      }
+    },
+    {
+      "title": "API Integration",
+      "content": {
+        "en": "Integrated the mobile app with the SynClass backend API to support authentication and the retrieval of academic data over HTTP, and used environment configuration (Flutter Dotenv) for API settings.",
+        "id": "Mengintegrasikan aplikasi mobile dengan backend SynClass API untuk mendukung proses autentikasi dan pengambilan data akademik melalui komunikasi HTTP, serta menggunakan konfigurasi environment (Flutter Dotenv) untuk pengaturan API."
+      }
+    },
+    {
+      "title": "Academic Features Implementation",
+      "content": {
+        "en": "Implemented app features that support academic activities, including courses, assignments and materials, grades, course enrollment (KRS), attendance, and the student profile, through the mobile interface.",
+        "id": "Mengimplementasikan fitur aplikasi yang mendukung aktivitas akademik, termasuk mata kuliah, tugas dan materi, nilai, KRS, presensi, serta profil mahasiswa melalui antarmuka mobile."
+      }
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/images/projects/synclass/login.jpeg",
+      "caption": {
+        "en": "Login and user authentication page.",
+        "id": "Halaman login dan autentikasi pengguna."
+      }
+    },
+    {
+      "src": "/images/projects/synclass/dashboard terdaftar.jpeg",
+      "caption": {
+        "en": "SynClass mobile app dashboard.",
+        "id": "Dashboard aplikasi mobile SynClass."
+      }
+    },
+    {
+      "src": "/images/projects/synclass/halaman dashboard matkul.jpeg",
+      "caption": {
+        "en": "Academic features in the SynClass app.",
+        "id": "Fitur akademik dalam aplikasi SynClass."
+      }
+    },
+    { "src": "/images/projects/synclass/halaman matkul.jpeg" },
+    { "src": "/images/projects/synclass/notifikasi pengingat.jpeg" },
+    { "src": "/images/projects/synclass/saat absen.jpeg" },
+    { "src": "/images/projects/synclass/sudah upload tugas.jpeg" }
+  ]
+}

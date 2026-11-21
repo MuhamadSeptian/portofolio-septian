@@ -1,0 +1,104 @@
+{
+  "title": "Computer Networking Labs (Cisco)",
+  "summary": {
+    "en": "A collection of computer networking lab projects covering LAN configuration, inter-network routing, VLANs, wireless networks, and connectivity testing using Cisco Packet Tracer.",
+    "id": "Kumpulan proyek praktikum jaringan komputer yang mencakup konfigurasi jaringan LAN, routing antarjaringan, VLAN, wireless network, serta pengujian konektivitas menggunakan Cisco Packet Tracer."
+  },
+  "category": "networking",
+  "year": 2024,
+  "status": "implemented",
+  "featured": true,
+  "technologies": [
+    "Cisco Packet Tracer",
+    "IPv4 Addressing",
+    "VLAN",
+    "Inter-VLAN Routing",
+    "OSPF",
+    "RIP v2",
+    "DHCP",
+    "Wireless LAN",
+    "ACL",
+    "VLSM"
+  ],
+  "thumbnail": "/images/projects/wireless/thumbnail 1.jpg",
+  "github": "https://github.com/MuhamadSeptian/Jaringan-Komputer---Wireless-Network",
+
+  "overview": {
+    "en": "This project is a collection of computer networking labs completed in 2024-2025 as part of the Computer Networks 1, Computer Networks 2, and Wireless Network courses. The labs cover designing topologies, configuring network devices, setting up IP addressing, routing, wireless networks, and testing communication between devices using Cisco Packet Tracer.",
+    "id": "Proyek ini merupakan kumpulan praktikum jaringan komputer yang dikerjakan pada tahun 2024-2025 sebagai bagian dari mata kuliah Computer Networks 1, Computer Networks 2, dan Wireless Network. Praktikum meliputi perancangan topologi, konfigurasi perangkat jaringan, pengaturan IP addressing, routing, jaringan wireless, serta pengujian komunikasi antarperangkat menggunakan Cisco Packet Tracer."
+  },
+  "role": {
+    "en": "Carried out network configuration and simulation both individually and in teams, from designing the topology and setting up network devices, to configuring addressing and routing, and testing connectivity and analyzing the simulation results.",
+    "id": "Mengerjakan konfigurasi dan simulasi jaringan secara mandiri maupun tim, mulai dari perancangan topologi, pengaturan perangkat jaringan, konfigurasi addressing dan routing, hingga pengujian konektivitas dan analisis hasil simulasi."
+  },
+  "learnings": [
+    {
+      "en": "Designed network topologies based on the communication needs between devices.",
+      "id": "Merancang topologi jaringan sesuai kebutuhan komunikasi antarperangkat."
+    },
+    {
+      "en": "Implemented IPv4 addressing and subnetting using VLSM.",
+      "id": "Mengimplementasikan IPv4 addressing dan subnetting menggunakan VLSM."
+    },
+    {
+      "en": "Configured VLANs and Inter-VLAN Routing for communication between network segments.",
+      "id": "Mengonfigurasi VLAN dan Inter-VLAN Routing untuk komunikasi antarsegmen jaringan."
+    },
+    {
+      "en": "Understood and applied routing using OSPF and RIP v2.",
+      "id": "Memahami dan menerapkan routing menggunakan OSPF dan RIP v2."
+    },
+    {
+      "en": "Configured DHCP to distribute IP addresses automatically.",
+      "id": "Mengonfigurasi DHCP untuk distribusi alamat IP secara otomatis."
+    },
+    {
+      "en": "Built wireless networks using Access Points and connected wireless clients.",
+      "id": "Membangun jaringan wireless menggunakan Access Point dan menghubungkan wireless client."
+    },
+    {
+      "en": "Applied ACLs to control network access and traffic.",
+      "id": "Menerapkan ACL untuk mengatur akses dan lalu lintas jaringan."
+    },
+    {
+      "en": "Troubleshot and tested connectivity using ping and network simulation.",
+      "id": "Melakukan troubleshooting serta menguji konektivitas menggunakan ping dan simulasi jaringan."
+    }
+  ],
+
+  "extra": [
+    {
+      "title": "Computer Networks 1: Network Configuration and Routing",
+      "content": {
+        "en": "Labs on designing network topologies, IPv4 configuration, subnetting, VLSM, switches, VLANs, Inter-VLAN Routing, routing, and connectivity testing between devices. Topics: IP addressing, subnetting, VLSM, VLAN, Inter-VLAN Routing, routing, ACL.",
+        "id": "Praktikum perancangan topologi jaringan, konfigurasi IPv4, subnetting, VLSM, switch, VLAN, Inter-VLAN Routing, routing, serta pengujian konektivitas antarperangkat. Topik: IP addressing, subnetting, VLSM, VLAN, Inter-VLAN Routing, routing, ACL."
+      }
+    },
+    {
+      "title": "Computer Networks 2: Network Infrastructure and Routing",
+      "content": {
+        "en": "Labs on configuring and simulating network infrastructure involving network segmentation, routing setup, and communication between networks through routers and switches. Topics: network topology, router and switch configuration, routing, OSPF.",
+        "id": "Praktikum konfigurasi dan simulasi infrastruktur jaringan yang melibatkan segmentasi jaringan, pengaturan routing, serta komunikasi antarjaringan melalui perangkat router dan switch. Topik: topologi jaringan, konfigurasi router dan switch, routing, OSPF."
+      }
+    },
+    {
+      "title": "Wireless Network: Wireless Connectivity and Network Services",
+      "content": {
+        "en": "A wireless network simulation across several building areas, with Access Point and SSID configuration, wireless network security, DHCP, routers, and connectivity testing of wireless clients. The labs also cover DNS and HTTP/HTTPS services to test access to network services. Topics: Wireless LAN, Access Point, SSID, DHCP, RIP v2, DNS, HTTP, HTTPS, ping.",
+        "id": "Simulasi jaringan wireless pada beberapa area gedung dengan konfigurasi Access Point, SSID, keamanan jaringan wireless, DHCP, router, serta pengujian konektivitas wireless client. Praktikum juga mencakup layanan DNS dan HTTP/HTTPS untuk pengujian akses layanan jaringan. Topik: Wireless LAN, Access Point, SSID, DHCP, RIP v2, DNS, HTTP, HTTPS, ping."
+      }
+    }
+  ],
+
+  "gallery": [
+    {
+      "src": "/images/projects/wireless/thumbnail 1.jpg",
+      "caption": {
+        "en": "Cisco Packet Tracer network topology used in the network configuration and simulation labs.",
+        "id": "Topologi jaringan Cisco Packet Tracer yang digunakan dalam praktikum konfigurasi dan simulasi jaringan."
+      }
+    },
+    { "src": "/images/projects/wireless/thumbnail 2.jpg" },
+    { "src": "/images/projects/wireless/thumbnail 3.jpg" }
+  ]
+}

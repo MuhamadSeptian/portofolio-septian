@@ -1,0 +1,37 @@
+{
+  "title": "Nama Proyek",
+  "summary": "Ringkasan singkat (1-2 kalimat) untuk kartu proyek.",
+  "category": "web",
+  "year": 2025,
+  "status": "implemented",
+  "featured": false,
+  "draft": false,
+  "technologies": ["Python", "Flask"],
+  "thumbnail": "thumbnail.jpg",
+  "github": "https://github.com/username/repo",
+  "demo": "",
+
+  "overview": "Gambaran umum proyek.",
+  "background": "Latar belakang dan permasalahan.",
+  "objectives": ["Tujuan 1", "Tujuan 2"],
+  "features": ["Fitur 1", "Fitur 2"],
+  "architecture": "Penjelasan arsitektur sistem.",
+  "architectureImage": "arsitektur.png",
+  "role": "Peran dan kontribusi Anda.",
+  "process": ["Tahap 1", "Tahap 2"],
+  "gallery": [
+    { "src": "screenshot-1.png", "caption": "Halaman utama" },
+    { "src": "screenshot-2.png", "caption": "Halaman detail" }
+  ],
+  "challenges": [
+    { "challenge": "Masalah yang dihadapi", "solution": "Cara menyelesaikannya" }
+  ],
+  "results": "Hasil pengerjaan.",
+  "learnings": ["Pembelajaran 1"],
+  "endpoints": [
+    { "method": "GET", "path": "/api/contoh", "description": "Mengambil data contoh" }
+  ],
+  "extra": [
+    { "title": "Topologi Jaringan", "content": "Penjelasan topologi.", "code": "interface g0/0\n ip address 192.168.1.1 255.255.255.0" }
+  ]
+}

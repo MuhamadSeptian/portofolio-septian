@@ -1,0 +1,49 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --bg: 244 246 248;
+  --fg: 14 23 38;
+  --muted: 100 110 125;
+  --line: 218 223 230;
+  --card: 255 255 255;
+  --accent: 40 70 230;
+}
+.dark {
+  --bg: 11 15 23;
+  --fg: 236 240 247;
+  --muted: 146 156 172;
+  --line: 36 43 56;
+  --card: 17 23 34;
+  --accent: 140 160 255;
+}
+
+@layer base {
+  html { scroll-behavior: smooth; }
+  body { @apply bg-bg text-fg font-sans antialiased; }
+  :focus-visible { outline: 2px solid rgb(var(--accent)); outline-offset: 3px; border-radius: 4px; }
+  ::selection { background: rgb(var(--accent) / 0.25); }
+}
+
+@layer components {
+  .container-page { @apply mx-auto w-full max-w-6xl px-5 sm:px-8; }
+  .btn { @apply inline-flex items-center gap-2 rounded-md border border-line px-4 py-2.5 text-sm font-medium transition-colors hover:border-accent hover:text-accent; }
+  .btn-primary { @apply border-accent bg-accent text-bg hover:bg-transparent hover:text-accent; }
+  .tag { @apply rounded border border-line px-2 py-0.5 font-mono text-xs text-muted; }
+}
+
+/* Satu-satunya animasi otomatis: hero saat halaman dibuka */
+@keyframes rise { from { opacity: 0; transform: translateY(14px); } to { opacity: 1; transform: none; } }
+.hero-in > * { animation: rise .7s cubic-bezier(.2,.7,.2,1) both; }
+.hero-in > *:nth-child(2) { animation-delay: .08s; }
+.hero-in > *:nth-child(3) { animation-delay: .16s; }
+.hero-in > *:nth-child(4) { animation-delay: .24s; }
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  .hero-in > * { animation: none; }
+}
+
+/* Pengganti bahasa: kedua versi teks ada di halaman, CSS menyembunyikan salah satunya */
+html[lang="id"] .l-en { display: none; }
+html:not([lang="id"]) .l-id { display: none; }

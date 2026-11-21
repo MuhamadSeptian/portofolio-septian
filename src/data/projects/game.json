@@ -1,0 +1,91 @@
+{
+  "title": "SUMASK — Game Deck-Builder",
+  "summary": {
+    "en": "A deck-builder game developed collaboratively at the Global Game Jam Palembang event. Contributed to the initial UI, the design of the gameplay flow, and debugging of C# script logic in Unity.",
+    "id": "Game bergenre deck-builder yang dikembangkan secara kolaboratif dalam acara Global Game Jam Palembang. Berkontribusi dalam pembuatan UI awal, perancangan alur gameplay, serta debugging logika script C# pada Unity."
+  },
+  "category": "game",
+  "year": 2026,
+  "status": "implemented",
+  "featured": false,
+  "technologies": [
+    "Unity",
+    "C#",
+    "UI Development",
+    "Debugging"
+  ],
+  "thumbnail": "/images/projects/game/Cover 1.png",
+  "github": "https://github.com/MuhamadSeptian/Sumask",
+  "overview": {
+    "en": "SUMASK is a deck-builder game inspired by Slay the Spire and developed collaboratively at the Global Game Jam Palembang event. The project involved designing and developing the gameplay flow together with a team. In this project, I contributed to building the initial user interface (UI) and traced and debugged C# script logic in Unity to resolve functionality and UI logic issues.",
+    "id": "SUMASK merupakan game bergenre deck-builder yang terinspirasi dari Slay the Spire dan dikembangkan secara kolaboratif dalam acara Global Game Jam Palembang. Proyek ini melibatkan perancangan dan pengembangan alur permainan bersama tim. Dalam proyek ini, saya berkontribusi pada pembuatan antarmuka pengguna (UI) awal serta melakukan penelusuran dan debugging logika script C# di Unity untuk mengatasi masalah fungsionalitas dan logika UI."
+  },
+  "role": {
+    "en": "Collaborated with the team to design and build the gameplay flow of a deck-builder game. Responsible for creating the initial UI, and for tracing and analyzing Unity C# scripts to identify and resolve logic and functionality issues in the game.",
+    "id": "Berkolaborasi dengan tim dalam merancang dan membangun alur permainan bergenre deck-builder. Bertanggung jawab dalam pembuatan UI awal serta menelusuri dan menganalisis script C# Unity untuk mengidentifikasi dan mengatasi masalah logika serta fungsionalitas pada game."
+  },
+  "learnings": [
+    {
+      "en": "Collaborated in a team to design and develop the gameplay flow.",
+      "id": "Berkolaborasi dalam tim untuk merancang dan mengembangkan alur permainan."
+    },
+    {
+      "en": "Created and implemented an initial user interface (UI).",
+      "id": "Membuat dan mengimplementasikan antarmuka pengguna (UI) awal."
+    },
+    {
+      "en": "Understood the structure and workflow of C# scripts in Unity.",
+      "id": "Memahami struktur dan alur kerja script C# dalam Unity."
+    },
+    {
+      "en": "Traced and analyzed script logic to identify functionality issues.",
+      "id": "Menelusuri dan menganalisis logika script untuk mengidentifikasi masalah fungsionalitas."
+    },
+    {
+      "en": "Debugged UI logic and game functionality issues.",
+      "id": "Melakukan debugging pada masalah logika UI dan fungsionalitas game."
+    }
+  ],
+  "extra": [
+    {
+      "title": "Gameplay Design and Development",
+      "content": {
+        "en": "Collaborated with the team to design and build the gameplay flow of a deck-builder game, including developing the gameplay concept and the player interaction flow. Areas covered: game design, deck-building, gameplay flow, and team collaboration.",
+        "id": "Berkolaborasi dengan tim dalam merancang dan membangun alur permainan bergenre deck-builder, termasuk mengembangkan konsep gameplay dan alur interaksi pemain. Bidang yang dicakup: game design, deck-building, gameplay flow, dan kolaborasi tim."
+      }
+    },
+    {
+      "title": "Initial UI Development",
+      "content": {
+        "en": "Created the initial user interface as part of the game development process, contributing to the visual presentation and the structure of player interaction. Built with Unity UI.",
+        "id": "Membuat antarmuka pengguna awal sebagai bagian dari proses pengembangan game, dengan berkontribusi pada tampilan visual dan struktur interaksi pemain. Dibangun dengan Unity UI."
+      }
+    },
+    {
+      "title": "C# Debugging and Logic Analysis",
+      "content": {
+        "en": "Traced and analyzed C# scripts in Unity to understand the program flow, identify logic problems, and resolve issues in functionality and the user interface.",
+        "id": "Menelusuri dan menganalisis script C# pada Unity untuk memahami alur program, mengidentifikasi permasalahan logika, serta mengatasi kendala pada fungsionalitas dan antarmuka pengguna."
+      }
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/images/projects/game/Cover.png",
+      "caption": {
+        "en": "Main view of the SUMASK game.",
+        "id": "Tampilan utama game SUMASK."
+      }
+    },
+    {
+      "src": "/images/projects/game/Cover 2.png",
+      "caption": {
+        "en": "SUMASK gameplay with the deck-builder mechanic.",
+        "id": "Tampilan gameplay SUMASK dengan mekanisme deck-builder."
+      }
+    },
+    {
+      "src": "/images/projects/game/Cover 3.png"
+    }
+  ]
+}

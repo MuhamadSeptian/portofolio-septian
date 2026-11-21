@@ -1,0 +1,156 @@
+{
+  "title": "High Value Parfum — E-Commerce Website",
+  "summary": {
+    "en": "Collaborative development of a perfume e-commerce website by a team of three, covering a product catalog, user authentication, a shopping cart, transactions, and an administration dashboard with data management.",
+    "id": "Pengembangan website e-commerce parfum yang dilakukan secara kolaboratif oleh tiga orang, mencakup katalog produk, autentikasi pengguna, keranjang belanja, transaksi, serta dashboard administrasi dan pengelolaan data."
+  },
+  "category": "web",
+  "year": 2024,
+  "status": "implemented",
+  "featured": false,
+  "technologies": [
+    "PHP",
+    "MySQL",
+    "MySQLi",
+    "HTML5",
+    "CSS3",
+    "JavaScript",
+    "Feather Icons",
+    "Google Maps"
+  ],
+  "thumbnail": "/images/projects/hvp/dashboard.png",
+  "github": "https://github.com/MuhamadSeptian/High-Value-Parfum",
+  "overview": {
+    "en": "High Value Parfum is an e-commerce website development project for selling perfume, created as an academic project by a team of three. The application is designed to provide an online shopping experience through a product catalog, a shopping cart, user authentication, and transaction management. Besides the customer side, the website also includes an administration and management panel for managing products, users, categories, transactions, and financial reports. The project uses PHP for the backend, MySQL for the database, and HTML, CSS, and JavaScript to build the interface and interactions.",
+    "id": "High Value Parfum merupakan proyek pengembangan website e-commerce untuk penjualan parfum yang dibuat sebagai proyek akademik secara berkelompok oleh tiga orang. Aplikasi dirancang untuk menyediakan pengalaman berbelanja online melalui katalog produk, keranjang belanja, autentikasi pengguna, serta pengelolaan transaksi. Selain sisi pelanggan, website ini juga dilengkapi dengan panel administrasi dan manajemen untuk mengelola produk, pengguna, kategori, transaksi, serta laporan keuangan. Pengembangan menggunakan PHP sebagai backend, MySQL sebagai database, dan HTML, CSS, serta JavaScript untuk membangun antarmuka dan interaksi website."
+  },
+  "role": {
+    "en": "Collaborated with two other team members on the design and development of the High Value Parfum e-commerce website. My individual contribution focused on application development tasks assigned within the team, including feature implementation, data management, and the development of the website interface and functionality.",
+    "id": "Berkolaborasi dengan dua anggota tim lainnya dalam proses perancangan dan pengembangan website e-commerce High Value Parfum. Kontribusi individu berfokus pada bagian pengembangan aplikasi sesuai pembagian tugas tim, termasuk implementasi fitur, pengelolaan data, serta pengembangan antarmuka dan fungsionalitas website."
+  },
+  "learnings": [
+    {
+      "en": "Understood the web application development process that integrates frontend, backend, and database.",
+      "id": "Memahami proses pengembangan aplikasi web yang mengintegrasikan frontend, backend, dan database."
+    },
+    {
+      "en": "Understood how PHP is used for data processing and for building website functionality.",
+      "id": "Memahami penggunaan PHP untuk pemrosesan data dan pengembangan fungsionalitas website."
+    },
+    {
+      "en": "Understood how a web application interacts with a MySQL database using MySQLi.",
+      "id": "Memahami interaksi antara aplikasi web dengan database MySQL menggunakan MySQLi."
+    },
+    {
+      "en": "Learned how to manage product, user, category, and transaction data in an application.",
+      "id": "Mempelajari pengelolaan data produk, pengguna, kategori, dan transaksi dalam aplikasi."
+    },
+    {
+      "en": "Understood the e-commerce application flow, from catalog management to the transaction process.",
+      "id": "Memahami alur aplikasi e-commerce mulai dari pengelolaan katalog hingga proses transaksi."
+    },
+    {
+      "en": "Developed an understanding of web application structure and the separation of functions based on needs.",
+      "id": "Mengembangkan pemahaman mengenai struktur aplikasi web dan pemisahan fungsi berdasarkan kebutuhan."
+    },
+    {
+      "en": "Improved collaboration and coordination skills in developing an application with a team.",
+      "id": "Meningkatkan kemampuan kolaborasi dan koordinasi dalam pengembangan aplikasi bersama tim."
+    }
+  ],
+  "extra": [
+    {
+      "title": "E-Commerce System",
+      "content": {
+        "en": "The website provides online shopping features, including a perfume catalog, product information, a shopping cart, user authentication, the transaction process, and purchase history. Built with PHP, MySQL, HTML, CSS, and JavaScript.",
+        "id": "Website menyediakan fitur belanja online yang mencakup katalog parfum, informasi produk, keranjang belanja, autentikasi pengguna, proses transaksi, dan riwayat pembelian. Dibangun dengan PHP, MySQL, HTML, CSS, dan JavaScript."
+      }
+    },
+    {
+      "title": "Product and User Management",
+      "content": {
+        "en": "The application provides an administration panel for managing product and user data, including adding, updating, and deleting records, as well as grouping products by category (CRUD with PHP and MySQLi).",
+        "id": "Aplikasi menyediakan panel administrasi untuk mengelola data produk dan pengguna, termasuk penambahan, pembaruan, penghapusan data, serta pengelompokan produk berdasarkan kategori (CRUD dengan PHP dan MySQLi)."
+      }
+    },
+    {
+      "title": "Transaction and Financial Management",
+      "content": {
+        "en": "The system covers transaction management, sales history, recording of payables and receivables, and reports that can be printed or exported to PDF.",
+        "id": "Sistem mencakup pengelolaan transaksi, riwayat penjualan, pencatatan hutang dan piutang, serta penyediaan laporan yang dapat dicetak atau diekspor ke format PDF."
+      }
+    },
+    {
+      "title": "Admin Dashboard",
+      "content": {
+        "en": "Provides an administration and management dashboard to support application data management, transaction monitoring, and access to the website's operational features.",
+        "id": "Menghadirkan dashboard administrasi dan manajemen untuk mendukung pengelolaan data aplikasi, pemantauan transaksi, serta akses terhadap fitur operasional website."
+      }
+    },
+    {
+      "title": "Database Integration",
+      "content": {
+        "en": "Integrates the application with a MySQL database to store and manage the user, product, category, and transaction information used in the system (PHP with MySQLi).",
+        "id": "Mengintegrasikan aplikasi dengan database MySQL untuk menyimpan dan mengelola informasi pengguna, produk, kategori, dan transaksi yang digunakan dalam sistem (PHP dengan MySQLi)."
+      }
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/images/projects/hvp/login.png",
+      "caption": {
+        "en": "Login page of the High Value Parfum website.",
+        "id": "Tampilan login website High Value Parfum."
+      }
+    },
+    {
+      "src": "/images/projects/hvp/dashboard.png",
+      "caption": {
+        "en": "Main page of the perfume e-commerce website.",
+        "id": "Halaman utama website e-commerce parfum."
+      }
+    },
+    {
+      "src": "/images/projects/hvp/produk.png",
+      "caption": {
+        "en": "Perfume product catalog.",
+        "id": "Katalog produk parfum."
+      }
+    },
+    {
+      "src": "/images/projects/hvp/checkout.png",
+      "caption": {
+        "en": "Shopping checkout page.",
+        "id": "Tampilan checkout belanja."
+      }
+    },
+    {
+      "src": "/images/projects/hvp/admin.png",
+      "caption": {
+        "en": "Application administration dashboard.",
+        "id": "Dashboard administrasi aplikasi."
+      }
+    },
+    {
+      "src": "/images/projects/hvp/user.png",
+      "caption": {
+        "en": "Data and transaction management page.",
+        "id": "Halaman pengelolaan data dan transaksi."
+      }
+    },
+    {
+      "src": "/images/projects/hvp/manage produk.png",
+      "caption": {
+        "en": "Data and transaction management page.",
+        "id": "Halaman pengelolaan data dan transaksi."
+      }
+    },
+    {
+      "src": "/images/projects/hvp/pesanan.png",
+      "caption": {
+        "en": "Data and transaction management page.",
+        "id": "Halaman pengelolaan data dan transaksi."
+      }
+    }
+  ]
+}
